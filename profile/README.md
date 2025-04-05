@@ -1,1 +1,1 @@
-thinkingcode.dev
+[thinkingcode.dev]
