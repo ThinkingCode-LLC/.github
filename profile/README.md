@@ -1,1 +1,1 @@
-[thinkingcode.dev](thinkingcode.dev)
+[thinkingcode.dev](https://thinkingcode.dev)
